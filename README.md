@@ -42,6 +42,10 @@ https://chatgpt.com/
 
 ## Links Interessantes
 
+![image](https://github.com/user-attachments/assets/7d3bb3b0-f251-4f99-ad8c-72c8fd692bff)
+
+
+![image](https://github.com/user-attachments/assets/10398fbd-36a0-443e-aece-ad1d342bdc40)
 
 
 ![image](https://github.com/user-attachments/assets/17c556c9-2b92-4a1f-989c-c704d6156a95)
