@@ -42,10 +42,7 @@ https://chatgpt.com/
 
 ## Links Interessantes
 
-https://files.oaiusercontent.com/file-ENgmjcGdnxNFYa467R6FcF?se=2025-03-17T21%3A06%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df660f57c-e426-4edc-ba47-a0db34f4184c.webp&sig=1wDboKw3rjy/jaaU5B%2Bzj3Htiy7wWrhxShO/cNekKUQ%3D
 
-https://files.oaiusercontent.com/file-Lobn9nycWeZYCqBNruWYS7?se=2025-03-17T21%3A07%3A59Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D56975cb0-ded6-4956-8e61-e878dd6bbb72.webp&sig=qrzwIwqGg8kCU%2BqfEMDRxyj2wrUIZlv4BNMyqr8jHDo%3D
 
-https://files.oaiusercontent.com/file-LgAaVF1uUTgiFyDJQAQWDA?se=2025-03-17T21%3A12%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1a69c268-b871-44e3-aedf-1f2b5d2b2f5a.webp&sig=USzXpDqTZUjiiHWLA3BQCgF5YIlBINDFYQgK9GrM9/k%3D
+![image](https://github.com/user-attachments/assets/17c556c9-2b92-4a1f-989c-c704d6156a95)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
