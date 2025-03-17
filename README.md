@@ -19,24 +19,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Logo Futurista da DIO
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia foi criar um logo Futurista da Dio, visando usar a IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado a plataforma do ChatGPT, para criação de três logos diferentes
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Durante o processo de criação, foi solicitado o que eu gostaria que a ferramenta fizesse, porém foi sendo efetuado acréscimos de informações para ir melhorando até chegar nos resultados, que temos como exemplo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi gerado os três resultados conforme os links, onde podemos ver uma criatividade muito boa da IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Muito interessante ver ferramentas que estão nos auxiliando no dia a dia, e com isso podemos expandir nosso conhecimento e visão da coisa. É importante lembrar que isso é uma ferramente de auxílio, e não devemos deixar de usar nossa imaginação, inteligência e todo conhecimento que temos. 
 
 ### Exemplos e Insigths
 
